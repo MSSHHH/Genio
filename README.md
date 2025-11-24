@@ -208,14 +208,6 @@ npm run dev
 
 详细 API 接口说明请参考 [API_INTERFACE.md](API_INTERFACE.md)
 
-## 传统架构（Streamlit，已弃用）
-
-> **注意**：项目已迁移到 React + FastAPI 架构。Streamlit 相关代码仍保留在项目中，但不再推荐使用。
-
-如需使用 Streamlit 版本：
-```bash
-streamlit run main.py
-```
 
 ## 相关文档
 
