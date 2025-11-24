@@ -1,0 +1,41 @@
+﻿CUSTOMER_ID,FIRST_NAME,LAST_NAME,EMAIL,PHONE,ADDRESS,REGISTRATION_DATE,FIRST_PURCHASE_DATE,LAST_PURCHASE_DATE,TOTAL_PURCHASE_COUNT,TOTAL_PURCHASE_AMOUNT,LOYALTY_LEVEL,AVERAGE_ORDER_VALUE
+1,Keith,Hawkins,nhendrix@example.net,(487)677-6607x7784,"2931 Boyle Circles
+Smithmouth, MS 62933",2025-07-09,2025-07-27,2025-11-06,3,876.13,Silver,292.04
+2,Elizabeth,Austin,qrichardson@example.net,291-775-9146x654,"53566 Cantu Vista
+Robertotown, PR 19918",2025-04-29,2025-07-25,2025-07-31,2,541.37,Silver,270.69
+3,Nancy,Sullivan,elliskimberly@example.org,001-931-892-3226x656,"929 Knox Trail Apt. 899
+Staceybury, WI 52092",2024-08-30,2025-04-19,2025-08-25,2,233.01000000000002,Bronze,116.51
+4,Brian,Simmons,christopher37@example.com,(949)960-5997x22761,"150 Julie Ridge
+West Jeffrey, ID 08306",2024-11-03,2025-05-21,2025-05-21,1,85.01,Bronze,85.01
+5,Kevin,Rangel,johnsonchristian@example.com,(459)870-4343,"06004 Alexander Roads
+New Gary, AL 22443",2025-06-07,2025-11-08,2025-11-08,1,108.15,Bronze,108.15
+6,Cynthia,Chan,thomasstephanie@example.org,643-428-4735x477,"PSC 6785, Box 1075
+APO AE 92601",2023-12-18,2024-03-17,2024-11-28,3,1113.1200000000001,Silver,371.04
+7,Amber,Phillips,pearsondavid@example.org,001-365-458-1950,"73485 Lee Stravenue
+Port Gary, NH 41341",2024-12-15,2025-08-27,2025-08-27,1,338.88,Bronze,338.88
+8,Lauren,Fernandez,vickieowens@example.com,(388)648-8835,"11201 Stacy Skyway Apt. 112
+New Leahstad, WV 03843",2025-03-16,2025-05-28,2025-05-28,1,352.2,Bronze,352.2
+9,Kimberly,Rivera,lisa24@example.org,(399)766-4562,"13416 Nelson Forks Apt. 987
+Blanchardville, IN 59561",2025-07-10,2025-09-29,2025-09-29,1,87.48,Bronze,87.48
+10,Elizabeth,White,beasleyheather@example.net,(666)213-1204x330,"87812 Christian Drives Suite 840
+Jacobburgh, ND 59158",2024-10-02,,,0,0.0,,
+11,Stephanie,Ruiz,ygeorge@example.org,6536376381,"PSC 5344, Box 4632
+APO AE 07573",2025-05-07,2025-05-19,2025-08-01,3,841.8299999999999,Silver,280.61
+12,Carla,Hall,joshuahopkins@example.com,+1-588-634-0700,"0934 Sheppard Corners
+Clarkstad, MT 90050",2025-06-03,2025-10-12,2025-10-12,1,98.16,Bronze,98.16
+13,Charles,Yang,lmullins@example.org,001-872-636-5153x464,"1586 Thomas Parkway Suite 855
+Jasonview, GU 18360",2025-06-06,2025-06-17,2025-06-17,1,61.13,Bronze,61.13
+14,Savannah,Hill,seanpetty@example.com,727-531-5134,"66266 Erin Pines
+Christopherbury, NC 73883",2025-07-23,2025-08-09,2025-10-17,2,837.76,Silver,418.88
+15,Sierra,Quinn,megansoto@example.com,(333)798-3506,"Unit 7858 Box 8208
+DPO AE 39737",2025-05-02,2025-06-11,2025-08-05,2,512.49,Silver,256.25
+16,Emily,Randall,thomasmcclure@example.net,304.814.6744x58526,"9310 Wade Light Suite 633
+South Christinastad, AL 72336",2025-01-25,,,0,0.0,,
+17,Bradley,Vargas,jennifer08@example.net,+1-356-666-5295,"037 Robert Spur Suite 989
+New David, IA 87761",2025-10-12,2025-10-16,2025-10-27,2,221.17000000000002,Bronze,110.59
+18,Nicole,Lin,ohall@example.net,(245)237-5277,"3463 Stacey Mountains
+Jonesstad, MH 50621",2024-09-10,2024-09-13,2024-09-13,1,228.45,Bronze,228.45
+19,Wesley,Brown,singletonsteven@example.com,498-262-7313,"2224 Luke Plains Apt. 532
+Elainemouth, SC 37863",2025-07-11,2025-09-17,2025-11-02,3,676.32,Silver,225.44
+20,Janet,Walker,nchen@example.com,+1-266-293-0819x28010,"9292 Owens Neck Apt. 156
+Keithton, MD 58406",2024-01-03,,,0,0.0,,
